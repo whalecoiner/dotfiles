@@ -1,0 +1,10 @@
+[user]
+  name = Chazza
+  email = charlie@whalecoiner.com
+[core]
+  IdentityFile = ~/.ssh/id_ed25519
+[init]
+  defaultBranch = main
+[includeIf "gitdir/i:~/Code/springernature/"]
+# [include]
+  path = ~/.gitconfig.work.inc

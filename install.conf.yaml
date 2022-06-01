@@ -1,0 +1,13 @@
+- clean: ['~']
+
+- link:
+    ~/.profile: files/profile
+    ~/.zprofile: files/zprofile
+    ~/.zshrc: files/zshrc
+    ~/.gitconfig: files/gitconfig
+    ~/.gitconfig.work.inc: files/gitconfig.work.inc
+
+- create:
+    - ~/Code
+    - ~/Code/personal
+    - ~/Code/springernature
