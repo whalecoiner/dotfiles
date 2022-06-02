@@ -1,5 +1,0 @@
-[user]
-  name = Chazza
-  email = charlie@whalecoiner.com
-[core]
-  IdentityFile = ~/.ssh/id_ed25519
