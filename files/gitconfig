@@ -5,6 +5,6 @@
   IdentityFile = ~/.ssh/id_ed25519_personal
 [init]
   defaultBranch = main
-[includeIf "gitdir/i:~/Code/springernature/"]
+[includeIf "gitdir/i:~/Code/employer/"]
 # [include]
   path = ~/.gitconfig.work.inc
