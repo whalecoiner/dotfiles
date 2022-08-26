@@ -6,6 +6,7 @@
     ~/.zshrc: files/zshrc
     ~/.gitconfig: files/gitconfig
     ~/.gitconfig.work.inc: files/gitconfig.work.inc
+    ~/.ssh/config: files/sshconfig
 
 - create:
     - ~/Code

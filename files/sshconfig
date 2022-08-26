@@ -1,0 +1,4 @@
+UseKeychain yes
+AddKeysToAgent yes
+IdentityFile ~/.ssh/id_ed25519_work
+IdentityFile ~/.ssh/id_ed25519_personal
